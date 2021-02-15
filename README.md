@@ -1,2 +1,2 @@
 # Amazon_Vine_Analysis
-Big data intro (Spark,
+Big data intro (Spark, AWS, PostGreSQL)
